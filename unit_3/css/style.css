@@ -1,0 +1,16 @@
+h1	{
+text-align: center;
+color:#ffffff;
+}
+
+h3	{
+font-style: italic;
+}
+
+body {
+	background: url(https://images.unsplash.com/photo-1524668951403-d44b28200ce0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=667&amp;q=80%20667w);
+	background-size: cover;
+	text-align: center;
+	color:#ffffff;
+	font-size: 24px;
+}
