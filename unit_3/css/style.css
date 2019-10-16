@@ -1,16 +1,41 @@
-h1	{
-text-align: center;
-color:#ffffff;
-}
-
 h3	{
 font-style: italic;
 }
 
+#logo {
+	width:100px;
+}
+
+header	{
+	background-color: #9666E8;
+	padding: 10px
+}
+
+nav a{
+	color: #cccccc;
+	font-style: italic;
+	margin-right: 20px
+}
+
 body {
-	background: url(https://images.unsplash.com/photo-1524668951403-d44b28200ce0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=667&amp;q=80%20667w);
-	background-size: cover;
+	font-family: Helvetica, sans-serif;
+	/*background: url(https://images.unsplash.com/photo-1524668951403-d44b28200ce0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=667&amp;q=80%20667w);
+	background-size: cover;*/
 	text-align: center;
-	color:#ffffff;
+	color: #000000;
 	font-size: 24px;
+	background-color: #9666E8;
+}
+
+#typewriter {
+	width: 100%
+}
+
+img{
+	width: 50%;
+}
+
+footer{
+	background-color: #9666E8;
+	text-align: center;
 }
