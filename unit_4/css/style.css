@@ -1,12 +1,13 @@
-@import url('https://fonts.googleapis.com/css?family=Merriweather|Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 
-h3	{
-font-style: italic;
+
+h3,
+h4,	{
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
 }
 
-#logo {
-	width:100px;
-}
 
 header	{
 	font-family: 'Raleway', sans-serif;
@@ -14,25 +15,29 @@ header	{
 	padding: 10px
 }
 
+
 nav a{
 	color: #cccccc;
-	font-style: italic;
 	margin-right: 20px
 }
 
 body {
-	font-family: 'Merriweather', serif;
+	font-family: 'Roboto', sans-serif;
 	/*background: url(https://images.unsplash.com/photo-1524668951403-d44b28200ce0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=667&amp;q=80%20667w);
 	background-size: cover;*/
 	text-align: center;
 	color: #000000;
-	font-size: 24px;
+	font-size: 20px;
 	background-color: #9666E8;
 }
 
 #typewriter {
 	width: 100%
 }
+
+#logo {
+	width:100px;
+}	
 
 img{
 	width: 50%;
