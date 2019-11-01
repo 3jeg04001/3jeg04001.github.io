@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+
+h3,
+h4,	{
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+}
+
+
+header	{
+	font-family: 'Raleway', sans-serif;
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px
+}
+
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	/*background: url(https://images.unsplash.com/photo-1524668951403-d44b28200ce0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=667&amp;q=80%20667w);
+	background-size: cover;*/
+	text-align: center;
+	color: #000000;
+	font-size: 20px;
+/*	background-color: #9666E8;*/
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px
+}
+
+div {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px
+}
+
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px
+}
+
+#typewriter {
+	width: 100%
+}
+
+#logo {
+	width:100px;
+}	
+
+img{
+	width: 50%;
+}
+
+footer{
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px
+	text-align: center;
+}
