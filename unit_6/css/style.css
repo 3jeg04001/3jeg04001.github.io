@@ -10,15 +10,8 @@ h3	{
 	font-size: 30px;
 }
 
-
 header	{
 	font-family: 'Raleway', sans-serif;
-}
-
-#nav_one {
-	background-color: #E8C66A;
-	border: 1px black solid;
-	padding: 20px
 }
 
 a {
@@ -26,31 +19,36 @@ a {
 	background-color: #E8C66A;
 	border: 1px black solid;
 	display:block;
-	padding: 30px
-	width: 200 width;
+	padding: 10px
 }
 
+#top_nav	{
+	margin: 20px;
+	border: none;
+	background-color: #ffffff;
+	text-decoration-color: #000000;
+}
 
-body {
+main {
 	font-family: 'Roboto', sans-serif;
 	/*background: url(https://images.unsplash.com/photo-1524668951403-d44b28200ce0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=667&amp;q=80%20667w);
 	background-size: cover;*/
-	text-align: center;
 	color: #000000;
 	font-size: 20px;
 /*	background-color: #9666E8;*/
+}
+
+#right_program{
+	
 }
 
 article {
 	padding: 20px
 }
 
-div {
-	padding: 20px
-}
-
 section {
 	background-color: #E8C66A;
+	text-align: center;
 }
 
 #typewriter {
@@ -59,6 +57,7 @@ section {
 
 #logo {
 	width:100px;
+	float: left;
 }	
 
 img{
@@ -68,29 +67,33 @@ img{
 #product_1 {
 	border: 1px black solid;
 	padding: 20px;
+	margin: 1em;
 	float: left;
-	width: 45%;
+	width: 40%;
 }	
 
 #product_2 {
 	border: 1px black solid;
 	padding: 20px;
+	margin: 1em;
 	float:right;
-	width: 45%;
+	width: 40%;
 }	
 
 #product_3 {
 	border: 1px black solid;
 	padding: 20px;
+	margin: 1em;
 	float: left;
-	width: 45%;
+	width: 40%;
 }	
 
 #product_4 {
 	border: 1px black solid;
 	padding: 20px;
+	margin: 1em;
 	float: right;
-	width: 45%;
+	width: 40%;
 }	
 
 #success_stories {
@@ -102,6 +105,7 @@ img{
 #left {
 	border: 1px black solid;
 	padding: 20px;
+	margin: 20px;
 	float: left;
 	width: 20%;
 }
@@ -109,6 +113,7 @@ img{
 #middle {
 	border: 1px black solid;
 	padding: 20px;
+	margin: 20px;
 	float: left;
 	width: 20%;
 }
@@ -116,6 +121,7 @@ img{
 #right {
 	border: 1px black solid;
 	padding: 20px;
+	margin: 20px;
 	float: left;
 	width: 20%;
 }
@@ -130,9 +136,9 @@ img{
 }
 
 footer{
+	text-align: center;
+	color: #ffffff;
 	background-color: #000000;
 	border: 1px black solid;
 	padding: 20px
-	text-align: center;
-	color: #ffffff;
 }
